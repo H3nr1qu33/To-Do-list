@@ -292,7 +292,7 @@ button:hover{
        height: auto;
     }
 
-    .task-finished{
+    .box-tasks .task-finished{
         width: 32.7rem;
        height: auto;
     }
